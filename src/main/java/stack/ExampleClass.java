@@ -11,4 +11,8 @@ public class ExampleClass {
         this.field1 = field1;
         this.field2 = field2;
     }
+
+    public boolean isPresent(){
+        return true;
+    }
 }
