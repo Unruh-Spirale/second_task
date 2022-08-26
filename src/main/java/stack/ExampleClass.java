@@ -3,6 +3,7 @@ package stack;
 public class ExampleClass {
     private String field1;
     private String field2;
+    private String field3;
 
     public ExampleClass() {
     }
@@ -15,4 +16,6 @@ public class ExampleClass {
     public boolean isPresent(){
         return true;
     }
+
+
 }
